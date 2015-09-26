@@ -1,26 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 750.11249 147.33749"
-   height="147.33749"
-   width="750.11249"
-   xml:space="preserve"
-   version="1.1"
-   id="svg2"><defs
-     id="defs6" /><g
-     transform="matrix(1.25,0,0,-1.25,0,147.3375)"
-     id="g10"><g
-       transform="scale(0.1,0.1)"
-       id="g12"><path
-         id="path16"
-         style="fill:#bbb9b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 840.719,105.18 0,315.511 105.164,0 L 945.883,0 0,0 l 0,420.691 105.164,0 0,-315.511 735.555,0" /><path
-         id="path18"
-         style="fill:#f36f18;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 210.445,210.359 525.821,0 0,105.164 -525.821,0 0,-105.164 z m 471.266,968.331 -84.383,-62.76 313.817,-421.914 84.382,62.761 -313.816,421.913 z M 420.879,929.949 824.926,593.445 892.227,674.258 488.18,1010.76 420.879,929.949 Z M 288.973,696.102 765.637,474.109 810.035,569.441 333.371,791.434 288.973,696.102 Z M 220.887,449.711 735.469,341.563 757.098,444.48 242.516,552.629 220.887,449.711" /></g></g><metadata
-     id="metadata4146"><rdf:RDF><cc:Work
-         rdf:about=""><dc:title></dc:title></cc:Work></rdf:RDF></metadata></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 750.11249 147.33749">
+	<g transform="matrix(1.25,0,0,-1.25,0,147.3375)">
+		<g transform="scale(0.1,0.1)">
+			<path fill="#bcbbbb" d="m 840.719,105.18 0,315.511 105.164,0 L 945.883,0 0,0 l 0,420.691 105.164,0 0,-315.511 735.555,0"/>
+			<path fill="#f48024" d="m 210.445,210.359 525.821,0 0,105.164 -525.821,0 0,-105.164 z m 471.266,968.331 -84.383,-62.76 313.817,-421.914 84.382,62.761 -313.816,421.913 z M 420.879,929.949 824.926,593.445 892.227,674.258 488.18,1010.76 420.879,929.949 Z M 288.973,696.102 765.637,474.109 810.035,569.441 333.371,791.434 288.973,696.102 Z M 220.887,449.711 735.469,341.563 757.098,444.48 242.516,552.629 220.887,449.711"/>
+		</g>
+	</g>
+</svg>
